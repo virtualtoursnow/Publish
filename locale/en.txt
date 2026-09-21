@@ -1,0 +1,39 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_B49D8306_AA0A_E75B_41D3_85E496CF6B47.source = https://tour.panoee.net/apabeaconsfield/6a141c80eadbcc00087f81f4
+LinkBehaviour_B9D96D13_AFFF_86CE_41E3_E1D374E45D08.source = https://tour.panoee.net/apabeaconsfield/6a141c80eadbcc00087f81f4
+LinkBehaviour_B456E7F6_AA0B_AEB8_41B1_3BEDD14331E4.source = https://tour.panoee.net/apasouthkingsville/6a89a468e2fb19000816fc44
+LinkBehaviour_B87CE702_AFFF_82CF_4183_E28030420EC8.source = https://tour.panoee.net/apasouthkingsville/6a89a468e2fb19000816fc44
+LinkBehaviour_B766373E_AA0B_AFA8_41C4_A532261954AE.source = https://tour.panoee.net/apastephen/3rd-pano-dandy_moredetail-v3_8k_8192x4096_2pass_moredetail-v3
+LinkBehaviour_B9DC4AFB_AFFF_833D_41DA_CACFC96444A3.source = https://tour.panoee.net/apastephen/3rd-pano-dandy_moredetail-v3_8k_8192x4096_2pass_moredetail-v3
+LinkBehaviour_BD880AF8_AF4F_833A_41D4_514C9D118F7A.source = https://tour.panoee.net/comodr/6a73fe40d47e160008ac33b9
+LinkBehaviour_B6924F97_AA07_DF79_41E2_5427144B8EEC.source = https://tour.panoee.net/comodr/6a73fe40d47e160008ac33b9
+LinkBehaviour_B767831E_AA05_A768_41E5_3C7D557BB019.source = https://tour.panoee.net/huckerbydr/6a13f46869ae27000806947d
+LinkBehaviour_BC7A28A3_AF42_8FCE_41D5_6A43AF1F9DB6.source = https://tour.panoee.net/huckerbydr/6a13f46869ae27000806947d
+LinkBehaviour_9A0923FC_B35F_DCEE_41DE_B49B60399DFB.source = https://www.apa.com.au
+LinkBehaviour_95CCA7B4_B348_C57E_41B6_CCF74244C769.source = https://www.apa.com.au
+LinkBehaviour_9A96C29C_B359_3F2E_41D7_BFA6BC45A076.source = https://www.fscgroup.com.au
+LinkBehaviour_9B89919B_B34F_5D2A_41DB_97F6AEA79D29.source = https://www.fscgroup.com.au
+
+## Media
+
+### Title
+panorama_A4AC5C32_A8FD_E5D0_41E2_819D4F1C9A35.label = BG
+
+## Skin
+
+### Multiline Text
+HTMLText_A4EAEBFE_A907_6250_41E3_DE01C7837449.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:65px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.apa.com.au" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#c9072a;font-size:65px;"><B>APA</B></SPAN></A></SPAN><SPAN STYLE="color:#ffffff;font-size:53px;"><B> </B></SPAN><SPAN STYLE="color:#ffffff;font-size:53px;">PROGRESS UPDATES</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:33px;">Immersive 360 Visual Record</SPAN></SPAN></DIV></div>
+HTMLText_B9C63CCC_A905_26B0_41AE_1D5AB0F606EF.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:25px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.fscgroup.com.au " TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#ffffff;font-size:31px;"><B>FSC</B></SPAN></A></SPAN><SPAN STYLE="color:#ffffff;font-size:25px;"><B> </B></SPAN><SPAN STYLE="color:#ffffff;font-size:25px;font-family:'Montserrat Light';">www.fscgroup.com.au</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:25px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_A4EAEBFE_A907_6250_41E3_DE01C7837449_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.apa.com.au" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#c9072a;font-size:30px;"><B>APA</B></SPAN></A></SPAN><SPAN STYLE="color:#cccccc;font-size:26.5px;"><B> </B></SPAN><SPAN STYLE="color:#ffffff;font-size:20px;">PROGRESS UPDATES</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:14px;">Immersive 360 Visual Record</SPAN></SPAN></DIV></div>
+HTMLText_B9C63CCC_A905_26B0_41AE_1D5AB0F606EF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:15.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.fscgroup.com.au" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#ffffff;font-size:15.5px;"><B>FSC</B></SPAN></A></SPAN><SPAN STYLE="color:#ffffff;font-size:12.5px;"><B> </B></SPAN><SPAN STYLE="color:#ffffff;font-size:12.5px;font-family:'Montserrat Light';">www.fscgroup.com.au</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = APA Landing Page Project
