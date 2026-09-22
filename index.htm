@@ -32,5 +32,12 @@
 <body>
     <div id="preloadContainer" class="fill-viewport"><div style="z-index: 4; position: absolute; overflow: hidden; left: 0%; top: 50%; width: 100.00%; height: 10.00%" ><div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.6666666666666663vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#777777;font-size:1.67vmin;font-family:Arial, Helvetica, sans-serif;">Loading virtual tour. Please wait...</SPAN></DIV></div></div></div>
     <div id="viewer" class="fill-viewport"></div>
+    <script type="text/javascript">
+    // Freezes the browser tab title, overriding 3DVista's player engine
+    Object.defineProperty(document, 'title', {
+        value: 'APA Progress Updates',
+        writable: false
+    });
+</script>
 </body>
 </html>
